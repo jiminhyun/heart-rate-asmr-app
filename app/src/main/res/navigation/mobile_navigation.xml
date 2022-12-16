@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_loginafter">
+
+    <fragment
+        android:id="@+id/nav_loginafter"
+        android:name="com.example.moveair5.LoginAfterFragment"
+        android:label="MoveAir"
+        tools:layout="@layout/fragment_loginafter" >
+        <action
+            android:id="@+id/action_nav_loginafter_to_nav_focus"
+            app:destination="@id/nav_focus" />
+        <action
+            android:id="@+id/action_nav_loginafter_to_nav_sleep"
+            app:destination="@id/nav_sleep" />
+        <action
+            android:id="@+id/action_nav_loginafter_to_nav_meditate"
+            app:destination="@id/nav_meditate" />
+        <action
+            android:id="@+id/action_nav_loginafter_to_nav_stabilize"
+            app:destination="@id/nav_stabilize" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_bookmark"
+        android:name="com.example.moveair5.relatedmusic.BookmarkFragment"
+        android:label="즐겨찾기"
+        tools:layout="@layout/fragment_bookmark" />
+
+    <fragment
+        android:id="@+id/nav_member_edit"
+        android:name="com.example.moveair5.ModifyFragment"
+        android:label="회원정보 수정"
+        tools:layout="@layout/fragment_modify" >
+        <action
+            android:id="@+id/action_nav_member_edit_to_nav_loginafter"
+            app:destination="@id/nav_loginafter" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.moveair5.LogoutFragment"
+        android:label="로그아웃"
+        tools:layout="@layout/fragment_logout" />
+
+    <fragment
+        android:id="@+id/nav_focus"
+        android:name="com.example.moveair5.relatedmusic.FocusFragment"
+        android:label="몰입"
+        tools:layout="@layout/fragment_focus" />
+
+    <fragment
+        android:id="@+id/nav_sleep"
+        android:name="com.example.moveair5.relatedmusic.SleepFragment"
+        android:label="수면"
+        tools:layout="@layout/fragment_sleep" />
+
+    <fragment
+        android:id="@+id/nav_meditate"
+        android:name="com.example.moveair5.relatedmusic.MeditateFragment"
+        android:label="명상"
+        tools:layout="@layout/fragment_meditate" />
+
+    <fragment
+        android:id="@+id/nav_stabilize"
+        android:name="com.example.moveair5.relatedmusic.StabilizeFragment"
+        android:label="안정"
+        tools:layout="@layout/fragment_stabilize" >
+        <action
+            android:id="@+id/action_nav_stabilize_to_nav_heart_rate_check"
+            app:destination="@id/nav_heart_rate_check" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_heart_rate_check"
+        android:name="com.example.moveair5.relatedmusic.HeartRateCheckFragment"
+        android:label="안정"
+        tools:layout="@layout/fragment_heart_rate_check" >
+        <action
+            android:id="@+id/action_nav_heart_rate_check_to_nav_stabilize"
+            app:destination="@id/nav_stabilize" />
+    </fragment>
+
+</navigation>

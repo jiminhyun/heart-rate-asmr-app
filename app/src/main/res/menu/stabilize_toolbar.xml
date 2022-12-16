@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_auto_play_setting"
+        android:title="자동재생 설정"
+        android:icon="@drawable/auto_play_setting"
+        android:onClick="setting"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_info"
+        android:title="운동상태 도움말"
+        android:icon="@drawable/info"
+        android:onClick="info"
+        app:showAsAction="always"/>
+</menu>

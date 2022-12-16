@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/debug/res/drawable/moveair_background.xml" value="0.249" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/auto_play_setting.xml" value="0.188" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/info.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/previous.xml" value="0.2495" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/settings.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/shape_button.xml" value="0.2205" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/shape_imagebutton.xml" value="0.2205" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/shape_outline.xml" value="0.2205" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/shape_toast.xml" value="0.2195" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_register.xml" value="0.2520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_search.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_stabilize.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/app_bar_main.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/content_main.xml" value="0.2171875" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/custom_notification.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_bookmark.xml" value="0.2515625" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_focus.xml" value="0.2453125" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_heart_rate_check.xml" value="0.24270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_loginafter.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_logout.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_modify.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_sleep.xml" value="0.2526041666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_stabilize.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/simple_list_item_activated_1.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/simple_list_item_activated_2.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/toast_layout.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/activity_main_drawer.xml" value="0.2520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/stabilize_toolbar.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/hgm1171/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/hgm1171/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_modify.xml" value="0.1" />
+        <entry key="..\:/Users/hgm1171/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/activity_main_drawer.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/hgm1171/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/bookmark.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/bookmark_add.xml" value="0.1955" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/bookmark_remove.xml" value="0.1955" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/ic_music_note.xml" value="0.1385" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/pause.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/play.xml" value="0.203" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/shape_outline.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/side_nav_bar.xml" value="0.1885" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/drawable/songlist_backgroud.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_auto_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_bookmark.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_loginafter.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_modify.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_sleeping_fragment.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/activity_song.xml" value="0.1875" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/app_bar_main.xml" value="0.1875" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/custom_notification.xml" value="0.33" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_bookmark.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_focus.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_loginafter.xml" value="0.2849162011173184" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_logout.xml" value="0.1875" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_meditate.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_modify.xml" value="0.33" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_sleep.xml" value="0.2" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/fragment_stabilize.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/notification.xml" value="0.1" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/simple_list_item_activated_1.xml" value="0.33" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/layout/simple_list_item_activated_2.xml" value="0.1875" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/activity_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/hjm11/AndroidStudioProjects/MoveAir5/app/src/main/res/menu/main.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
